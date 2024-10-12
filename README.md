@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 <h1 align="center">
   <img src=https://github.com/allaine-sioson/allaine-sioson/blob/main/fox_spin.gif> 
   <br>
-  Hi! Welcome to my GitHub Profile.
+  Hello ! I'm Allaine.
 </h1>
