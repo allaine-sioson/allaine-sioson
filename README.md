@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi! Welcome to my GitHub Profile.
+# Hi! Welcome to my GitHub Profile. ![](https://github.com/allaine-sioson/allaine-sioson/blob/main/pop-cat.gif)
+
