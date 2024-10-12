@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Hi! Welcome to my GitHub Profile. ![](https://github.com/allaine-sioson/allaine-sioson/blob/main/pop-cat.gif)
-
+<h1 align="center">
+  <img src=https://github.com/allaine-sioson/allaine-sioson/blob/main/fox_spin.gif> 
+  <br>
+  Hi! Welcome to my GitHub Profile.
+</h1>
