@@ -1,4 +1,4 @@
-<h1 align="center">☕ welcome to my little corner of code ~</h1>
+<h1 align="center"><img src =https://github.com/allaine-sioson/allaine-sioson/blob/main/bunny.gif>   &nbsp welcome to my little corner of code ~</h1>
 <p align="center">hi, i'm allaine — coding from the comfort of my bed 🥖</p>
 
 ---
