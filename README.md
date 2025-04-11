@@ -1,5 +1,5 @@
 <h1 align="center">☕ welcome to my little corner of code ~</h1>
-<p align="center">hi, i'm allaine — coding from the comfort of a cozy café booth 🥖</p>
+<p align="center">hi, i'm allaine — coding from the comfort of my bed 🥖</p>
 
 ---
 
@@ -7,7 +7,7 @@
 
 - 🎓 grade 12 student | SHSM - ICT | future app developer   
 - coding since 8th grade — currently into Java & app dev  
-- lead the coding club + active robotics team member
+- leading the coding club + active robotics team member
 - hobby cook, baker and crochet-er
 
 ---
