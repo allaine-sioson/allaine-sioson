@@ -1,19 +1,34 @@
-<!--
-**allaine-sioson/allaine-sioson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">☕ welcome to my little corner of code ~</h1>
+<p align="center">hi, i'm allaine — coding from the comfort of a cozy café booth 🥖</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">
-  <img src=https://github.com/allaine-sioson/allaine-sioson/blob/main/fox_spin.gif> 
-  <br>
-  Hello ! I'm Allaine, welcome to my profile.
-</h1>
+## 🍂 about me
+
+- 🎓 grade 12 student | SHSM - ICT | future app developer   
+- coding since 8th grade — currently into Java & app dev  
+- lead the coding club + active robotics team member
+- hobby cook, baker and crochet-er
+
+---
+
+## ☁️ current brew
+
+- game dev projects!
+- rewatching masterchef s4-s5 while coding
+
+---
+
+## 🐻 tech & tools
+
+```yaml
+languages:
+  - Python 🐍
+  - Java ☕
+  - HTML/CSS 🌐
+
+tools:
+  - VSCode
+  - Arduino
+  - Git & GitHub
+
