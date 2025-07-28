@@ -25,10 +25,8 @@
 languages:
   - Python 🐍
   - Java ☕
-  - HTML/CSS 🌐
 
 tools:
   - VSCode
   - Arduino
-  - Git & GitHub
 
