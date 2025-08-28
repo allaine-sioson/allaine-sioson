@@ -7,7 +7,7 @@
 
 - 🎓 grade 12 student | SHSM - ICT | future app developer   
 - coding since 8th grade — currently into Java & app dev  
-- leading the coding club + active robotics team member
+- former coding club + robotics team member
 - hobby cook, baker and crochet-er
 
 ---
@@ -15,6 +15,7 @@
 ## ☁️ current brew
 
 - game dev projects!
+- starting cs first year
 - rewatching masterchef s4-s5 while coding
 
 ---
