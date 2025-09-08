@@ -1,5 +1,5 @@
-<h1 align="center"><img src =https://github.com/allaine-sioson/allaine-sioson/blob/main/bunny.gif>   &nbspwelcome to my little corner of code ~</h1>
-<p align="center">hi, i'm allaine — coding from the comfort of my bed 🥖</p>
+<h1 align="center"><img src =https://github.com/allaine-sioson/allaine-sioson/blob/main/bunny.gif>   &nbspwelcome to my page ~</h1>
+<p align="center">hi, i'm allaine, nice to meet you :3</p>
 
 ---
 
