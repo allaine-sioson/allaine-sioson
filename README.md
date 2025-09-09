@@ -5,7 +5,7 @@
 
 ## 🍂 about me
 
-- 🎓 grade 12 student | SHSM - ICT | future app developer   
+- 🎓 college student | hons. bhcs
 - coding since 8th grade — currently into Java & app dev  
 - former coding club + robotics team member
 - hobby cook, baker and crochet-er
