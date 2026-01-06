@@ -26,9 +26,10 @@
 languages:
   - Python 🐍
   - Java ☕
-  - Arduino 🤖
+  - C++ 🤖
 
 tools:
   - VSCode
+  - Rider
   - Arduino IDE
 
